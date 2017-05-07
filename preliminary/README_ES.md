@@ -2,8 +2,7 @@
 # ArcticFox
 *[NFE Team](http://nfeteam.org) presenta un firmware personalizado para mods de Joyetech, Wismec y Eleaf.*
 
-```
-```
+![](http://i.imgur.com/rk6gZo8.png) ![](http://i.imgur.com/5mU3FAB.png) ![](http://i.imgur.com/wl8wR8d.png) ![](http://i.imgur.com/3yLUtOB.png) ![](http://i.imgur.com/fD6X2pK.png)
 
 **Usa [NFE Toolbox](https://github.com/TBXin/NFirmwareEditor/releases) para [instalar](https://github.com/maelstrom2001/ArcticFox/wiki/How-to-install) el firmware y configurar tu mod.**
 
@@ -97,7 +96,7 @@ Editar la pantalla principal difere de los firmwares originales de Joyetech. Par
 
 (Por defecto) pulsa el botón de calada y "-" durante 1 segundo para entrar al menú.
 
-![](http://i.imgur.com/feb0TFy.png)
+![](http://i.imgur.com/feb0TFy.png) ![](http://i.imgur.com/be2BWSt.png)
 
 ### Menú de perfiles
 
@@ -126,7 +125,7 @@ Editar la pantalla principal difere de los firmwares originales de Joyetech. Par
      - **Saver** - muestra el reloj en el modo de ahorro de energía;
 * **Timeouts**
      - **Dim** - tiempo de espera hasta apagar la pantalla;
-     - **Dim** :lock: - tiempo de espera hasta apagar la pantalla en modo bloqueado;
+     - **Dim** ![](https://cdn2.iconfinder.com/data/icons/font-awesome/1792/lock-16.png) - tiempo de espera hasta apagar la pantalla en modo bloqueado;
      - **Logo** - tiempo en espera hasta mostrar el logo;
      - **Clock** - tiempo en espera hasta mostrar el reloj;
 * **Charge**
@@ -156,17 +155,17 @@ Editar la pantalla principal difere de los firmwares originales de Joyetech. Par
           - Clock - mostrar/esconder el reloj en la pantalla principal;
           - Info - mostrar información en pantalla;
           - Reset Cnt. - mostrar las estadísticas de vapeo con posibilidad de reseteo;
-          - Power Bank - cambiar al modo Power Bank;
-          - Coil Lock - bloquear resistencia (modos TC);
-          - Key Lock - bloquear botones encendido/apagado;
+          - ![](https://cdn4.iconfinder.com/data/icons/font-awesome-2/2048/f011-16.png) Bank - cambiar al modo Power Bank;
+          - Coil ![](https://cdn2.iconfinder.com/data/icons/font-awesome/1792/lock-16.png) - bloquear resistencia (modos TC);
+          - Key ![](https://cdn2.iconfinder.com/data/icons/font-awesome/1792/lock-16.png) - bloquear botones encendido/apagado;
           - Stealth - cambiar a modo Stealth encendido/apagado;
           - Smart On/Off - cambiar al modo Smart encendido/apagado;
           - LSL - cambiar al modo nocturno encendido/apagado;
-          - Device Lock - bloquear todos los botones dejando el mod encendido;
+          - Device ![](https://cdn2.iconfinder.com/data/icons/font-awesome/1792/lock-16.png) - bloquear todos los botones dejando el mod encendido;
           - On/Off - apagar o encender mod;
      * **5 Fire button clicks**:
           - On/Off - apagar o encender mod;
-          - Device Lock - bloquear todos los botones dejando el mod encendido;
+          - Device ![](https://cdn2.iconfinder.com/data/icons/font-awesome/1792/lock-16.png) - bloquear todos los botones dejando el mod encendido;
 * **Smart** - ajustes de cambio de perfil automático:
      - Off/On/Lazy - Lazy significa que el perfil solo cambiará cuando el cambies el atomizador con el mod encendido;
      - Range - tolerencia de la resistencia;
@@ -176,7 +175,7 @@ Editar la pantalla principal difere de los firmwares originales de Joyetech. Par
      - LIRC Speed - ajustar la velocidad interna del oscilador usado en mods sin cristal externo de 32768 Hz;
 * **Expert** - ajustes para usuarios avanzados:
 
-![](http://i.imgur.com/TewKhaq.png) ![](http://i.imgur.com/t24VXIO.png) ![](http://i.imgur.com/7feR2HK.png) ![](http://i.imgur.com/KqArvHQ.png)
+![](http://i.imgur.com/TewKhaq.png) ![](http://i.imgur.com/t24VXIO.png) ![](http://i.imgur.com/7feR2HK.png) ![](http://i.imgur.com/pp3TTaR.png)
 
 * **USB**
      - NoSlp - no entrar en modo reposo cuando el mod está conectado por usb - puede causar que se descarguen las baterías cuando la carga finaliza;
@@ -194,7 +193,8 @@ Editar la pantalla principal difere de los firmwares originales de Joyetech. Par
 * **TEMP** - sensor de temperatura , Ext - thermistor, Int - MCU;
 * **D. Sleep** - modo sueño profundo (se activa después de 3 minutos de actividad)::
      - Std - modo estándar;
-     - Power / Lock - apaga / o bloquea el mod antes de entrar en modo sueño profundo.
+     - ![](https://cdn4.iconfinder.com/data/icons/font-awesome-2/2048/f011-16.png) - apaga el mod antes de ir al sueño profundo;
+ +     - ![](https://cdn2.iconfinder.com/data/icons/font-awesome/1792/lock-16.png) - bloquea el mod antes de ir al sueño profundo.
 
 ### Power Bank
 
